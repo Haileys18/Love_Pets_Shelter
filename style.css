@@ -8,4 +8,5 @@
 body{
      background-image: url('shelter.png');
     background-size: cover;
+    background-repeat: no-repeat;
 }
