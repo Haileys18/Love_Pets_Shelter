@@ -6,5 +6,8 @@
   font-style: normal;
 }
 body{
-    background-image:
+     background-image: url('shelter.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
